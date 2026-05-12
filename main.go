@@ -5,7 +5,7 @@ import (
 	"slices"
 )
 
-const version = ""
+const version = "0.1.0"
 
 var utility string = ""
 var mainFn func() = func() {
